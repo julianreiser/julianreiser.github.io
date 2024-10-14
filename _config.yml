@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "de-DE"
-title                    : "Website"
+locale                   : "en-US"
+title                    : "Julian Elias Reiser"
 title_separator          : "-"
 name                     : &name "Julian Elias Reiser"
-description              : &description "Post-doctoral Researcher"
+description              : &description "personal description"
 URL                      : "https://julianreiser.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "julianreiser/julianreiser.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
