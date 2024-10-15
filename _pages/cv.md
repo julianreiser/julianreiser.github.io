@@ -11,35 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021: PhD in Psychology [(Institute of Cognitive Neuroscience)](https://www.ikn.psy.ruhr-uni-bochum.de/indexE.html), Ruhr-University Bochum, Germany
+* 2016: MSc in Psychology, University of Ulm, Germany
+* 2014: BSc in Business Psychology, Leuphana University Lüneburg, Germany
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* 2021 - ongoing: Post-doctoral Researcher
+  * Leibniz Research Centre for Working Environment and Human Factors, Dortmund, Germany
+  * Duties includes: [GRAIL laboratory supervision](https://www.ifado.de/en/newsroom/news/grail-29447); 
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - ongoing: Lecturer
+  * Institute of Cognitive NeuroscienceRuhr-University Bochum, Germany
+  * Courses:
+    * BSc Business Psychology: Mobile EEG for Measuring Mental Stress
+    * MSc Neuroscience: Seminar & Practical Course for Neuropsychological Measures: EEG
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2021: Research Assistant / PhD Student
+  * Leibniz Research Centre for Working Environment and Human Factors, Dortmund, Germany
+  * Duties included: Merging pull requests
+  * Supervisor: Prof. Edmund Wascher
+
+* 2015: Working Student & Intern
+  * [Mercedes-Benz Tech Innovation GmbH](https://group.mercedes-benz.com/careers/about-us/locations/location-detail-page-5074.html), Ulm, Germany
+  * Duties included: testing & programming of in-vehicle speech assistants
+  * Supervisor: André Berton
+
+* 2014 - 2015: Student Research Assistant
+  * University of Ulm [(Department of Human Factors)](https://www.uni-ulm.de/in/psy-hf/)
+  * Duties included: quantitative experiments; programming of experiments; data analysis; literature search
+  * Supervisor: Prof. Martin Baumann
+
+* 2011 - 2014: Student Research Assistant
+  * Leuphana University Lüneburg [(Institute of Experimental Industrial Psychology)](https://www.leuphana.de/en/institutes/luenelab.html)
+  * Duties included: teaching tutorial classes; conducting quantitative experiments; data analysis; literature search
+  * Supervisor: Prof. Rainer Höger & Dr. Michael Oehl
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science and Analysis
+  * Matlab
+  * Python
+  * R
+* Experimental Psychology: planning and conducting quantitative studies
+* Psychophysiology
+  * EEG
+  * ECG
+  * Eye-Tracking
 
 Publications
 ======
@@ -61,4 +80,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Steering Board Committe @ [EEGmanysteps](https://juliuswelzel.github.io/eegmanysteps/news.html)
+* Scientific Committee @ [Mobile Brain/Body Imaging Conference](https://sites.google.com/view/mobi-2024/home)
+* 
