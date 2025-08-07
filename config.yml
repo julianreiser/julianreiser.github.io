@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://julianreiser.github.io" 
+title: Julian Elias Reiser
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -24,13 +24,13 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+ #       - name: Blog
+ #         url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+ #         weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Julian Elias Reiser's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Julian Elias Reiser
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Julian Elias Reiser
+          subtitle: "I am a post-doctoral researcher in the Institute of Human Factors and Workin Environment, Dortmund, Germany. My research focuses on the interaction of cognition and motion in naturalistic environments."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -72,32 +72,32 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#            - name: Blog
+#              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:reiser@ifado.de
+#        - name: Zoom
+#          url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
+#        - name: Office Hours
+#          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=oN2cytEAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://github.com/julianreiser
+#        - name: Substack
+#          url: https://pmichaillat.substack.com
+#        - name: YouTube
+#          url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://x.com/julianereiser
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/julianreiser.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Julian Elias Reiser"
       icon: favicon.ico
       iconHeight: 18
 
