@@ -29,11 +29,11 @@ menu:
  #         weight: 6
 
 params:
-    description: "This website hosts Julian Elias Reiser's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Julian Elias Reiser's research papers, course materials, data, curriculum vitae, and contact information."
     author: Julian Elias Reiser
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Julian Elias Reiser
-          subtitle: "I am a post-doctoral researcher in the Institute of Human Factors and Workin Environment, Dortmund, Germany. My research focuses on the interaction of cognition and motion in naturalistic environments."
+          subtitle: "I am a post-doctoral researcher at the Leibniz Institute for Working Environment and Human Factors, Dortmund, Germany. My research focuses on the interaction of cognition and motion in naturalistic environments."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
