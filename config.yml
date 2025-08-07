@@ -64,8 +64,8 @@ params:
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
+#            - name: Books
+#              url: books/
             - name: Courses
               url: courses/
             - name: Tags
@@ -94,8 +94,12 @@ params:
 #          url: https://pmichaillat.substack.com
 #        - name: YouTube
 #          url: https://www.youtube.com/@pmichaillat
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/julian-elias-reiser-068916122/
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Julian-Reiser?ev=hdr_xprf
         - name: Twitter
-          url: https://x.com/julianereiser
+          url: https://x.com/julian_e_reiser
         - name: Bluesky
           url: https://bsky.app/profile/julianreiser.bsky.social
 
