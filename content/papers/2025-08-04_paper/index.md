@@ -10,7 +10,7 @@ cover:
     alt: "Vizualisation of a warehouse worker switching devices"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://doi.org/10.1111/psyp.70122"
     Text: "Psychophysiology"
 
 ---
@@ -19,7 +19,6 @@ editPost:
 
 ##### Links
 
-+ [Paper](https://doi.org/10.1111/psyp.70122)
 + [Raw data](https://doi.org/10.5281/zenodo.14506178)
 + [Code](https://github.com/julianreiser/grail_switch.git)
 
