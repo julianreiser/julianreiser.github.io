@@ -2,7 +2,7 @@
 title: "Location"
 date: 2025-08-07
 hidemeta: true
-description: "Dr. Reiser's mailing and office addresses at the Institute of Romance Philology."
+description: "Dr. Reiser's mailing and office addresses at the Leibniz Research Centre for Working Environment and Human Factors."
 
 ---
 
@@ -10,9 +10,9 @@ description: "Dr. Reiser's mailing and office addresses at the Institute of Roma
 
 #### Mailing & office address
 
-Dr. Reiser
-Ergonomics Department
-Leibniz Research Center for Working Environments and Human Factors
+Dr. Reiser\
+Ergonomics Department\
+Leibniz Research Center for Working Environments and Human Factors\
 Dortmund, Germany
 
 ---
