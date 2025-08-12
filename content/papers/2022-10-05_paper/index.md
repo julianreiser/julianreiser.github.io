@@ -35,44 +35,6 @@ editPost:
 
 ---
 
-##### Key Contributions
-
-**Novel Signal Quality Assessment Methods**
-- Introduction of morphSQ: a morphological noise-to-signal ratio on percentage scale for local signal quality assessment
-- Modified Smith-Waterman algorithm for RR interval sequence alignment and error classification
-- Comprehensive evaluation framework combining morphological analysis and interval-based validation
-
-**Comprehensive Device Comparison**
-- Simultaneous testing of five different ECG devices across multiple realistic scenarios
-- Evaluation during rest, walking, cognitive tasks, and high-intensity exercise
-- Cross-device performance analysis using standardized ground truth annotations
-
-**Practical Validation Framework**
-- Real-world testing conditions including cognitive and physical workload
-- Assessment of QRS detection accuracy using positive predictive values and false negative rates
-- Direct comparison methodology applicable to any wearable ECG device validation
-
-**Clinical and Research Applications**
-- Evidence-based recommendations for device selection in different use cases
-- Validation of consumer-grade devices for scientific research applications
-- Guidelines for signal quality assessment in ambulatory ECG monitoring
-
----
-
-##### Device Performance Summary
-
-**eMotion Faros 360°** - Medical-grade device with superior performance across all conditions, achieving 98.78% signal quality (morphSQ < 10%) and minimal false detection rates.
-
-**Hexoskin Hx1** - Textile-integrated system with good overall performance but sensitivity to proper fit, showing 91.33% signal quality with performance degradation during movement.
-
-**NeXus-10 MKII** - Research-grade device with excellent performance in controlled conditions but significant quality reduction during high-intensity exercise (89.10% during uphill phase).
-
-**Polar RS800 Multi** - Consumer sports device optimized for higher heart rates, showing best performance during exercise phases with limited raw ECG access.
-
-**SOMNOtouch NIBP** - Multi-parameter monitoring device with consistent 97.45% signal quality and reliable performance across different activity levels.
-
----
-
 ##### Citation
 
 Bläsing, D., A. Buder, J. E. Reiser, M. Nisser, S. Derlien, and M. Vollmer. 2022. "ECG performance in simultaneous recordings of five wearable devices using a new morphological noise-to-signal index and Smith-Waterman-based RR interval comparisons." PLOS ONE 17(10): e0274994. https://doi.org/10.1371/journal.pone.0274994.
